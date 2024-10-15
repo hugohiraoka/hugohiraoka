@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ <img align="right" alt="Coding" width="400" src="https://i.imgur.com/I7xjW2X.jpg">
+
 <!--
 **hugohiraoka/hugohiraoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
