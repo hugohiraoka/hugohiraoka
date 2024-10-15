@@ -5,7 +5,10 @@
 &#x205F;
 
 I am currently developing FewFiu, the next-generation AI-powered Social media Network. I am very interested in collaborating on coding projects, particularly those related to Machine Learning. At the same time, I need help developing code and ML algorithms.
-I am very interested in discussing the uses of ML/AI, focusing on applications that can improve the world. While many may focus on the bad things AI may bring, I want to think of the great things and the ethics behind AI solutions.
+I am very interested in discussing the uses of ML/AI, focusing on applications that can improve the world. While many may focus on the bad things AI may bring, I want to think of the great things and applying ethics to AI solutions.
+
+&#x205F;
+
 During a discussion session during my MBA program with fellow students, I brought up an example of an AI ethics dilemma. Imagine the scenario where you take a self-driving car from work to home. Everything is going smoothly until a young boy riding his bike suddenly appears in front of the self-driving car.
 
 &#x205F;
@@ -22,14 +25,15 @@ To my surprise, the most common answer given to me was neither 1) nor 2). The mo
 > 
 > "The code has to consider that situation so nobody is hurt";
 > 
-and
 > "That would be bad programming". 
 
-Accidents happen and machines are not exempt either. The above fictional situation is the conundrum of AI ethics. The above scenario requires that a decision be made within a fraction of a second, how would society react to a decision made by a 'machine'?  Who gets to choose who lives and who dies? We know that the machine is instructed to perform in a certain way, but somewhere, a decision is made, either by an algorithm or a defined set of rules. When a human driver is involved in such an event, he/she may be morally responsible to a certain extent. How about when a machine is driving? Will the engineers who designed the algorithm be held accountable for prioritizing saving the life of the self-driving car's passenger?  
+&#x205F;
 
-Providing answers like the ones given by my fellow students is not good for the development of AI. These are scenarios that should be discussed and debated by all stakeholders.
+Accidents happen and machines are not exempt either. The above fictional situation is the conundrum of AI ethics. How would society react to a decision made by a 'machine'?  Who gets to choose who lives and who dies? The machine is instructed to perform in a certain way, but somewhere, a decision is made, either by an algorithm or a defined set of rules. When a human driver is involved in such an event, he/she may be morally responsible to a certain extent. But what will happen when a machine is the vehicle's driver? Will the engineers who designed the algorithm be held accountable for prioritizing saving the life of the self-driving car's passenger over the life of the boy on the bicyle?  
 
-Similarly, I am interested in the ethical implications of AI in my next-generation social media project. That is a very lengthy topic, so I will not address it here.
+Providing answers like the ones given by my fellow students is not good for the development of AI. These are scenarios that should be discussed and debated by all stakeholders and that have a profound impact on how we design ML/AI algorithms.
+
+I am interested in the ethical implications of AI in my next-generation social media project. This is a very lengthy topic, so I will not address it here.
 
 - 🔭 I’m currently working on my startup, the next Generation AI Powered Social Media.
 - 🌱 I’m currently learning Scala.
@@ -40,7 +44,7 @@ Similarly, I am interested in the ethical implications of AI in my next-generati
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'll think of something and will post it here.
 - &#x1F4BB; Main Programming Box: An old Dell PowerEdge R420 server with 2 with 16Mb RAM and 2 SSD in non-raid configuration.
-- &#x1F4BE; Storage: I am using idrive
+- &#x1F4BE; Storage: I am using idrive.
 - &#x2328; Keyboard: The unbeatable Fujitsu Happy Hacking Hybrid Type-S
 - &#x1F400; Mouse: Logitech MX Master 2S  
 
