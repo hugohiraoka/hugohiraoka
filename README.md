@@ -29,7 +29,7 @@ To my surprise, the most common answer given to me was neither 1) nor 2). The mo
 
 &#x205F;
 
-Accidents happen and machines are not exempt either. The above fictional situation is the conundrum of AI ethics. How would society react to a decision made by a 'machine'?  Who gets to choose who lives and who dies? The machine is instructed to perform in a certain way, but somewhere, a decision is made, either by an algorithm or a defined set of rules. When a human driver is involved in such an event, he/she may be morally responsible to a certain extent. But what will happen when a machine is the vehicle's driver? Will the engineers who designed the algorithm be held accountable for prioritizing saving the life of the self-driving car's passenger over the life of the boy on the bicyle?  
+Accidents happen and machines are not exempt either. The above fictional situation is the conundrum of AI ethics. How would society react to a decision made by a 'machine'?  Who gets to choose who lives and who dies? The machine is instructed to perform in a certain way, but somewhere, a decision is made, either by an algorithm or a defined set of rules. When a human driver is involved in such an event, he/she may be morally responsible to a certain extent. But what will happen when a machine is the vehicle's driver? Will the engineers who designed the algorithm be held accountable for prioritizing saving the life of the self-driving car's passenger over the boy's life?  
 
 Providing answers like the ones given by my fellow students is not good for the development of AI. These are scenarios that should be discussed and debated by all stakeholders and that have a profound impact on how we design ML/AI algorithms.
 
